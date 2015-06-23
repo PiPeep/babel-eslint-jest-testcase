@@ -1,0 +1,9 @@
+{
+  "name": "babel-eslint-jest-testcase",
+  "version": "0.0.0",
+  "dependencies": {
+    "babel-eslint": "3.1.17",
+    "eslint": "0.23.0",
+    "jest-cli": "0.4.13"
+  }
+}
